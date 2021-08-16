@@ -10,6 +10,8 @@
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kenyon-luce)](https://github.com/anuraghazra/github-readme-stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=kenyon-luce&show_icons=true&count_private=true&include_all_commits=true&height=100px)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kenyon-luce&height=100px)
 
 <!--
 **kenyon-luce/kenyon-luce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

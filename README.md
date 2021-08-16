@@ -7,7 +7,7 @@
 
 <h2>Exposure to/Currently Learning: </h2>
 
-<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kenyon-luce)](https://github.com/anuraghazra/github-readme-stats)
 

@@ -7,7 +7,7 @@
 
 <h2>Exposure to/Currently Learning: </h2>
 
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><img alt="C Sharp" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/><img alt="Dot Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kenyon-luce&show_icons=true&count_private=true&include_all_commits=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kenyon-luce&layout=compact)
